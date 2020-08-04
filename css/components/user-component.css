@@ -26,6 +26,18 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+.user-component__subtitle span {
+  background-color: white;
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  display: inline-block;
+  color: tomato;
+  font-weight: 600;
+  border: 2px solid tomato;
+  text-align: center;
+}
+
 .user-component__avatar--xl {
   width: 80px;
   height: 80px;
